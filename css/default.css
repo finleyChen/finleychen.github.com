@@ -78,7 +78,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 #mycard .link-hover{width:66px;height:66px;border:2px solid #333}
 #mycard a.link-icon{display:block;height:100%;padding-top:10px;}
 #mycard .link-icon span{width:48px;height:48px;display:block;margin-left:10px;background-image:url(/images/index.png);cursor:pointer}
-#mycard a.link-info{text-align:center;position:absolute;bottom:0;left:0;line-height:normal;color:#fff;background-color:#000;height:0;width:60%;}
+#mycard a.link-info{text-align:center;position:absolute;bottom:0;left:0;line-height:normal;color:#fff;background-color:#000;height:0;width:30%;}
 #mycard a.link-info:hover {text-decoration:none}
 #mycard img{margin-top:20px}
 #mycard .blog{background-color:#D6B301}
