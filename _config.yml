@@ -6,7 +6,7 @@ paginate:         6
 permalink:        /:title
 
 title:            chentc.info
-url:              http://chentc.info
+url:              chentc.info
 feed:             /atom.xml
 author:
     name:         BeiYuu
