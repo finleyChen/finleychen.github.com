@@ -5,14 +5,13 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 
-title:            BeiYuu.com
-url:              http://beiyuu.com
-feed:             /atom.xml
+title:            chentc.info
+url:              http://chentc.infofeed:             /atom.xml
 author:
     name:         BeiYuu
     twitter:      twitter.com/beiyuu
-description:      "BeiYuu\'s Blog"
-author_info:      <a href="http://beiyuu.com/about">BeiYuu</a>
+description:      "Finley Chen\'s Blog"
+author_info:      <a href="http://about.me/fanglin.chen">Finley Chen</a>
 
 copyright:
-    - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; Copyright 2012
+    - Design by <a href="http://about.me/fanglin.chen" title="Finley Chen" target="_blank">BeiYuu</a> &copy; Copyright 2012
